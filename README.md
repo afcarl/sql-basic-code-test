@@ -1,4 +1,4 @@
-DATASCIENCE's Basic SQL Code Test
+DataScience's Basic SQL Code Test
 ================================
 
 This is an at-home exercise that we use as part of our standard interview process for positions requiring basic SQL proficiency.
