@@ -1,4 +1,4 @@
-Connect HQ's Basic SQL Code Test
+DATASCIENCE's Basic SQL Code Test
 ================================
 
 This is an at-home exercise that we use as part of our standard interview process for positions requiring basic SQL proficiency.
@@ -7,9 +7,10 @@ This is an at-home exercise that we use as part of our standard interview proces
 
 * Download the sample_db.sql file
 * Write queries to answer the questions listed below
-* Email your queries to careers@datascience.com with subject line "SQl Proficiency Test"
+* Email your queries to careers@datascience.com with subject line "SQL Proficiency Test"
 * If we haven't already recieved it, please attached your resume to your email.
 * You may use any resources you like to complete this.  For a simple solution, consider http://sqlfiddle.com/
+* Part of what you are being tested on is your ability to understand a schema that has incomplete documentation.  Make sure you take the time to assess all the fields in these tables and how relevant they are for each query.
 
 ## Questions
 
