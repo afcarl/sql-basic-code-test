@@ -9,7 +9,7 @@ This is an at-home exercise that we use as part of our standard interview proces
 * Write queries to answer the questions listed below
 * Email your queries to careers@datascience.com with subject line "SQL Proficiency Test"
 * If we haven't already recieved it, please attached your resume to your email.
-* You may use any resources you like to complete this.  For a simple solution, consider http://sqlfiddle.com/
+* You may use any resources you like to complete this.  For a simple solution, consider http://sqlfiddle.com/ or SQLite
 * Part of what you are being tested on is your ability to understand a schema that has incomplete documentation.  Make sure you take the time to assess all the fields in these tables and how relevant they are for each query.
 
 ## Questions
